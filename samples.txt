@@ -1,0 +1,5 @@
+sampletype,bamfile
+wt,wt1_insertions.bam
+wt,wt2_insertions.bam
+dksA,dksa1_insertions.bam
+dksA,dksa2_insertions.bam
